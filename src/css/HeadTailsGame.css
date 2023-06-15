@@ -1,0 +1,33 @@
+.header {
+    color: "#253758";
+  }
+  
+  .item {
+    background-color: #f2f7ff;
+    max-width: 80px;
+    max-height: 80px;
+  }
+  .item:hover {
+    background: #ffe4d6;
+    cursor: pointer;
+  }
+  .img-circle{
+    border-radius: 50px;
+  }
+  .brown-lighter-hover {
+    color: #795548;
+    -webkit-transition: .4s;
+    transition: .4s; }
+  .brown-lighter-hover:hover {
+    -webkit-transition: .4s;
+    transition: .4s;
+    color: #a57868; }
+  
+  .brown-darker-hover {
+    color: #795548;
+    -webkit-transition: .4s;
+    transition: .4s; }
+  .brown-darker-hover:hover {
+    -webkit-transition: .4s;
+    transition: .4s;
+    color: #49332b; }
